@@ -3,5 +3,7 @@
         "endfor",
         "endfunction"
     ],
-    "gitignore.cacheExpirationInterval": 3600
+    "gitignore.cacheExpirationInterval": 3600,
+    "editor.minimap.scale": 1,
+    "window.zoomLevel": 1
 }
