@@ -90,7 +90,7 @@ function f4 (A, B, n, N, alpha)
 
     endfor
 
-    # printf("f4. Норма = %d\n", norm(A * B - C));
+    printf("f4. Норма = %d\n", norm(A * B - C));
 endfunction
 
 ## Основная часть: тестирование и сравнение производительности различных реализаций
