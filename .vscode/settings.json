@@ -1,7 +1,9 @@
 {
     "cSpell.words": [
         "endfor",
-        "endfunction"
+        "endfunction",
+        "xlabel",
+        "ylabel"
     ],
     "gitignore.cacheExpirationInterval": 3600,
     "editor.minimap.scale": 1,
